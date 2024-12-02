@@ -91,8 +91,7 @@ pip install -r requirements.txt
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-repo-name/cnn-classification.git
-cd cnn-classification
+git clone git@github.com:adil-cpu/CNN-model.git
 ```
 2. Установите зависимости:
 ```bash
